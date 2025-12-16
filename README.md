@@ -6,7 +6,6 @@ ExpenseVouge is an web application built using Vite and React. Vite is a fast bu
 
 ### Desktop UI
 
-![Desktop UI](https://github.com/Abubakkar-Siddhiq/ExpenseVouge/blob/main/screenshots/desktop.png?raw=true)
 
 
 
@@ -14,8 +13,6 @@ ExpenseVouge is an web application built using Vite and React. Vite is a fast bu
 
 
 ### Try ExpenseVouge:
-
-Live link: https://abubakkar-siddhiq.github.io/ExpenseVouge/
 
 
 
