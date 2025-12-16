@@ -8,31 +8,16 @@ ExpenseVouge is an web application built using Vite and React. Vite is a fast bu
 
 ![Desktop UI](https://github.com/Abubakkar-Siddhiq/ExpenseVouge/blob/main/screenshots/desktop.png?raw=true)
 
-### Mobile UI
-![Mobile UI page 1](https://github.com/Abubakkar-Siddhiq/ExpenseVouge/blob/main/screenshots/mobile_1.png?raw=true)
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
-![Mobile UI page 2](https://github.com/Abubakkar-Siddhiq/ExpenseVouge/blob/main/screenshots/mobile_2.png?raw=true)
+
 
 ## Getting Started
 
-### Prerequisites
-
-Make sure you have Node.js and npm installed on your machine.
-
-- [Node.js](https://nodejs.org/)
-- [npm](https://www.npmjs.com/)
 
 ### Try ExpenseVouge:
 
 Live link: https://abubakkar-siddhiq.github.io/ExpenseVouge/
 
-### Installation
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/Abubakkar-Siddhiq/ExpenseVouge.git
-   ```
 
 2. Navigate to the project directory:
 
@@ -54,10 +39,7 @@ To run the application in development mode, use the following command:
 npm run dev
 ```
 
-This will start the development server, and you can access the application at [http://localhost:3000](http://localhost:3000).
 
-
-## Project Structure
 
 - `src`: Contains the source code for the React application.
   - `components`: React components used in the application.
